@@ -1,7 +1,8 @@
-/*----------------------------------------
-	Author: 	ArmApps
-	Website: 	https://armapps.net
-----------------------------------------*/
+scriptName "fn_buyZone";
+/*----------------------------------------------
+	File:      fn_buyZone.sqf
+	Author:    ArmApps (www.armapps.net)
+----------------------------------------------*/
 #define __filename "fn_buyZone.sqf"
 
 params ["","","",["_type", "", [""]]];

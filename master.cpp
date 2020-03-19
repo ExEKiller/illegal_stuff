@@ -30,3 +30,4 @@ class armapps_illegal_stuff_cfg {
         msgPurchased =          "You've purchased the %1 field";
     };
 };
+

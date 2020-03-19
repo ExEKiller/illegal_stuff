@@ -1,7 +1,8 @@
-/*----------------------------------------
-	Author: 	ArmApps
-	Website: 	https://armapps.net
-----------------------------------------*/
+scriptName "fn_getLocalization";
+/*----------------------------------------------
+	File:      fn_getLocalization.sqf
+	Author:    ArmApps (www.armapps.net)
+----------------------------------------------*/
 #define __filename "fn_getLocalization.sqf"
 
 params [["_name", "", [""]]];
